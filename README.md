@@ -4,8 +4,7 @@ This repository contains the official implementation of the paper:
 
 > **Abstract:** In infrared imaging, spatially proximate small targets undergo severe aliasing... This paper proposes STSA-Net, a structure-enhanced deep unfolding network... incorporating Small Target Sensitive Convolution (STSC) and Adaptive Sparse Threshold (AST) modules.
 
-![Network Architecture](figures/architecture.png)
-*(Note: You can upload your revised Figure 1 here)*
+
 
 ## 🚀 Highlights
 - **Structure-Enhanced:** Introduces STSC to preserve small target details.
@@ -18,6 +17,3 @@ This repository contains the official implementation of the paper:
 - PyTorch >= 1.10
 - CUDA >= 11.0
 
-Install dependencies:
-```bash
-pip install -r requirements.txt
